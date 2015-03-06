@@ -1,0 +1,65 @@
+PODS:
+  - AFNetworking (2.5.0):
+    - AFNetworking/NSURLConnection (= 2.5.0)
+    - AFNetworking/NSURLSession (= 2.5.0)
+    - AFNetworking/Reachability (= 2.5.0)
+    - AFNetworking/Security (= 2.5.0)
+    - AFNetworking/Serialization (= 2.5.0)
+    - AFNetworking/UIKit (= 2.5.0)
+  - AFNetworking/NSURLConnection (2.5.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.0)
+  - AFNetworking/Security (2.5.0)
+  - AFNetworking/Serialization (2.5.0)
+  - AFNetworking/UIKit (2.5.0):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - EAIntroView (2.6.4)
+  - GoogleAnalytics-iOS-SDK (3.10):
+    - GoogleAnalytics-iOS-SDK/Core (= 3.10)
+  - GoogleAnalytics-iOS-SDK/Core (3.10)
+  - JSBadgeView (1.3.2)
+  - JTObjectMapping (1.1.1)
+  - MBProgressHUD (0.9)
+  - SDWebImage (3.7.1):
+    - SDWebImage/Core (= 3.7.1)
+  - SDWebImage/Core (3.7.1)
+  - SHObjectUserInfo (1.2.2)
+  - SHSegueBlocks (1.2.3):
+    - SHObjectUserInfo (~> 1.2.0)
+  - UIActivityIndicator-for-SDWebImage (1.2):
+    - SDWebImage (~> 3.7)
+  - UIAlertView+Block (1.1.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5)
+  - EAIntroView (~> 2.6.4)
+  - GoogleAnalytics-iOS-SDK (~> 3.10)
+  - JSBadgeView (~> 1.3)
+  - JTObjectMapping (= 1.1.1)
+  - MBProgressHUD (~> 0.8)
+  - SDWebImage (~> 3.7)
+  - SHSegueBlocks (~> 1.2)
+  - UIActivityIndicator-for-SDWebImage (~> 1.2)
+  - UIAlertView+Block (~> 1.1)
+
+SPEC CHECKSUMS:
+  AFNetworking: 0f54cb5d16ce38c1b76948faffb8d5fb705021c7
+  EAIntroView: 8f66dc6b79f2d52db26af8fc5476a05ffc549d4c
+  GoogleAnalytics-iOS-SDK: f422062075d9ccb1ea8d783fc5ba3829461e9502
+  JSBadgeView: 75bec79d76e0eb01d57c9ce75b7c5ea8d6707955
+  JTObjectMapping: 3ac337470e70ea08a737904c8cd4e4e112f55175
+  MBProgressHUD: 2038dbcf3dce73215abed6001657043d53aa79a8
+  SDWebImage: 116e88633b5b416ea0ca4b334a4ac59cf72dd38d
+  SHObjectUserInfo: 24b9d33f77bf0a7770bbca3bd3fffc0f9d782501
+  SHSegueBlocks: 5edbb9242c12d24d3044c5cb2bed89afcc88e613
+  UIActivityIndicator-for-SDWebImage: 8bd92c15280fbe54816448c6b14674145eee05c7
+  UIAlertView+Block: 972ce1f530df4285ae69698c5711bb0a52fbf4e3
+
+COCOAPODS: 0.35.0
